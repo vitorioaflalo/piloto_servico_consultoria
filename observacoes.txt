@@ -1,0 +1,13 @@
+PRÓXIMOS PASSOS
+1) Verificar legendas dos gráficos, títulos, nome dos eixos, explicações, gráfico por gráfico - tentar ser mais
+claro nas explicações e melhorar o layout (fonte, cores, disposição dos escritos etc)
+2) Ver se cada filtro está sendo aplicado a cada gráfico e planilha corretamente
+3) Ajeitar as cores e o layout geral - colocar mais cores da empresa; mudar a cor da barra lateral, etc 
+4) Ajeitar o filtro de valores, onde os valores se sobrepõem e ficam ilegíveis 
+5) Ajeitar o nome de cada página no menu lateral
+6) Testar os botões de download e ver se precisa adicionar mais
+7) Testar diversas combinações de filtros, observando a disposição das informações a partir desses filtros
+(se elas se sobrepõem, ficam ilegíveis, etc) - arrumar o que for possível
+8) Bater algumas informações de cada gráfico com as informações reais, para ver a veracidade dos dados
+9) Subir o projeto para o streamlit web, para ver seu funcionamento real
+
