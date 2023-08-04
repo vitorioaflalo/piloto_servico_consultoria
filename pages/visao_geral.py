@@ -43,7 +43,7 @@ despesas = ['Outros Serviços de Terceiros - Pessoa Jurídica', 'Material de Con
                 'Serviços de Consultoria', 'Equipamentos e Material Permanente']
 show_map = True
 
-CAMINHO_ARQUIVO = 'planilhas\cnpjs.xlsx'
+CAMINHO_ARQUIVO = 'dataframes\cnpjs.xlsx'
 
 # ------------------------------------------FUNÇÕES------------------------------------------ #
 def criacao_lat_long(coordenadas, cidades):
